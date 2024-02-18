@@ -5,14 +5,15 @@ Analysing various parameters for a given basketball dribble video: Dribble count
 *Prerequisites*
 -------------
 - `Python 3.10` 
-- Install necessary packages using `pip install -r requirements.txt`
+- Install necessary packages using the following command:
+```bash
+pip install -r requirements.txt
+````
 
 *Documentation*
 -------------
-- Run the ipynb file:
-```bash
-dribble-count.ipynb
-```
+- Run the `dribble-count.ipynb` file.
+
 - The video displays the Dribble Count, Ball Velocity and Dribble Frequency.
 - The video output has been saved as `outputvid.mp4`
 
