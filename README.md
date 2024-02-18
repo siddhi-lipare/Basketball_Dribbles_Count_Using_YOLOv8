@@ -1,4 +1,4 @@
-# Basketball_Dribbles_Count_Using_YOLO
+# Basketball_Dribbles_Count_Using_YOLOv8
 Analysing various parameters for a given basketball dribble video: Dribble count, Ball velocity, Dribble frequency
 
 ----------
